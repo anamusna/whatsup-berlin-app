@@ -1,0 +1,22 @@
+{
+  "name": "whatsup-berlin-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anamusna/whatsup-berlin-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anamusna/whatsup-berlin-app/issues"
+  },
+  "homepage": "https://github.com/anamusna/whatsup-berlin-app#readme",
+  "dependencies": {
+    "extract-text-webpack-plugin": "^4.0.0-beta.0"
+  }
+}
